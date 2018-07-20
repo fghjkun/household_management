@@ -9,6 +9,7 @@
 <body>
 <form action="/821_kadai/result" method="get">
       ユーザID：<INPUT type="text" name="name"><BR>
+      
       パスワード：<INPUT type="password" pass="pass"><BR>
      <input type="submit" value="送信">
       </form>
